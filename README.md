@@ -1,10 +1,4 @@
-# **Hausübung 3 - Ausarbeitung**
 
-## **Aufgabe 1: Schach** (`src/chess`)
-
-### **Aufgabe (a): Standard-Chess**
-
-#### **Lösungsidee**
 Die Aufgabe besteht darin, eine vollständige und erweiterbare Spiellogik für ein Schachspiel zu entwerfen, die neben der
 Zugausführung auch das korrekte Erkennen von Spielendzuständen wie Schachmatt und Patt ermöglicht. Ausgangspunkt der
 Lösung ist eine klare Vererbungshierarchie: Eine abstrakte Basisklasse beschreibt ein allgemeines Schachbrett mit den
@@ -115,15 +109,4 @@ Der König kann nicht mehr castlen wenn der Turm oder der König schon einmal be
 Der König kann nicht über Schach castlen:
 ![schachcastling.png](src/chess/resources/tests/schachcastling.png)
 
-### **Aufgabe (b): Random-Chess**
-
-#### **Lösungsidee**
-
-#### **Testfälle**
-
-### **Aufgabe (c): Chess 2.0**
-
-#### **Lösungsidee**
-
-#### **Testfälle**
 
